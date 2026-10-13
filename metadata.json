@@ -1,0 +1,6 @@
+{
+  "name": "RRU-1: Rim Recovery Unit — Lunar Cache Recovery System",
+  "description": "Mission-control dossier and technical specification for the RRU-1 tethered lunar cache recovery system rescuing rover Artemis-7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
